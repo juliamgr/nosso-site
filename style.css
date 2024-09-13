@@ -10,13 +10,35 @@
     float: left;
     height: 400px;
     width: 100%;
+    background-image: url(https://storage.googleapis.com/novo-blog-wordpress/2023/04/94297833-capa-blog_sociologia-do-trabalho.jpg);
+}
+
+.linha{
+    display: block;
+    background-color: blue;
+    height: 30px;
+    width: 100%;
 }
 
 /*texto/*/
 
 h1{
     text-align: center;
-    padding-top: 151px;
+    padding-top: 133px;
     font-size: 75px;
 
+}
+
+h2{
+    text-align: center;
+    padding-top: 0px;
+    font-size: 29x;
+}
+
+.p1{
+    text-align: center;
+    word-spacing: 7px;
+    font-size: 17px;
+    padding-top: 120px;
+    color: white;
 }
