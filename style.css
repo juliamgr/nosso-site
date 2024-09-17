@@ -4,13 +4,13 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 aside{
-    width: 200px;
-    height: 300px;
+    width: 270px;
+    height: 470px;
     background-color: blue;
 }
 .imagem{
     display: block;
     height: 200px;
     width: 200px;
-    color:red;
+    color:white;
 }
