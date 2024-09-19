@@ -7,10 +7,17 @@ aside{
     width: 270px;
     height: 470px;
     background-color: blue;
+    top: auto;
 }
-.imagem{
+.topico{
     display: block;
-    height: 200px;
+    height: 150px;
     width: 200px;
-    color:white;
+    float: left;
+    background-color:white;
+    margin-left: 20px;
+    bottom: -10px;
+    
 }
+
+
