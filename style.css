@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
 }
 
 .header{
@@ -41,4 +42,98 @@ h2{
     font-size: 17px;
     padding-top: 120px;
     color: white;
+}
+
+    
+
+.marx{
+    width: 170px;
+    height: 120px;
+    display: block;
+    float: left;
+    margin-top: 10px;
+    margin-left: 20px;
+    
+}
+.social{
+    width: 300px;
+    height: auto;
+    display: block;
+    float: left;
+    font-size: 12px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.grande{
+    background-color: rgb(44, 147, 147);
+    height: 200px;
+    width: 550px;
+    margin: 10px;
+    right: 300px;
+}
+.pequeno{
+    
+    background-color:  rgb(94, 209, 213);
+    height:265px ;
+    
+    margin-left: 10PX;
+    width: 265px;
+  
+}
+
+
+.marxis{
+    padding-top: 20px;
+    font-size: smaller;
+
+}
+.saiba{
+    display: block;
+    margin-left: 470px;
+    
+    
+    
+}
+.saiba2{
+    position: relative;
+   font-size: x-small;
+    width: 50px;
+    left: 190px;
+
+}
+ .pequeno2{
+    background-color:  rgb(94, 209, 213);
+    height:265px ;
+    position: relative;
+    left: 280px;
+    bottom:265px;
+    margin-left: 10px;
+    width: 268px;
+    font-size: 15px;
+    
+  
+}
+.maisar{
+    background-color: rgb(69, 109, 217);
+    position: relative;
+    bottom:-4px;
+    height: 20px;
+    width: 220px;
+    left: 15px;
+    border: none;
+    
+}
+li{
+    font-size:small;
+    position: relative;
+    left: 30px;
+    bottom: -6px;
+}
+
+aside{
+    width: 270px;
+    height: 470px;
+    background-color: blue;
+    top: auto;
+
 }
