@@ -21,9 +21,9 @@
     width: 100%;
 }
 
-/*texto/*/
+/*texto 150, 200/*/
 
-h1{
+header h1{
     text-align: center;
     padding-top: 133px;
     font-size: 75px;
@@ -72,12 +72,12 @@ h2{
     right: 300px;
 }
 .pequeno{
-    
+    display: block;
     background-color:  rgb(94, 209, 213);
-    height:265px ;
-    
-    margin-left: 10PX;
-    width: 265px;
+    height:270px ;
+    width: 268px;
+    margin-top:400px;
+    margin-left: 20px;
   
 }
 
@@ -102,15 +102,13 @@ h2{
 
 }
  .pequeno2{
+    display: block;
     background-color:  rgb(94, 209, 213);
-    height:265px ;
-    position: relative;
-    left: 280px;
-    bottom:265px;
-    margin-left: 10px;
+    height:270px ;
     width: 268px;
-    font-size: 15px;
-    
+    margin-top:-270px;
+    margin-left: 300px;
+   
   
 }
 .maisar{
